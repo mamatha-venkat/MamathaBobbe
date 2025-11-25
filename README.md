@@ -67,11 +67,8 @@ A microservices-based online bookstore with independent services for:
 Developed an image enhancement system to improve visibility and clarity of low-quality images for object detection.
 
 ✨ **Techniques Used:**  
-- Noise reduction  
-- Contrast enhancement  
-- Brightness normalization  
-- Sharpening  
-- Super-resolution  
+- **Object Detection**  
+- **Semantic Segmentation**
 
 🔧 **Tech Stack**  
 - Python  
