@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mamatha Bobbe  
 
 📌 **About Me**  
-I'm Mamatha, a Computer Science & Engineering student at **Anantha Lakshmi Institute of Technology & Sciences**, passionate about coding and building innovative solutions.  
+I'm Mamatha, a Computer Science & Engineering graduate from **Anantha Lakshmi Institute of Technology & Sciences**, passionate about coding and building innovative solutions.  
 This README is my space to showcase my journey, skills, and achievements. Let’s dive in!
 
 ---
